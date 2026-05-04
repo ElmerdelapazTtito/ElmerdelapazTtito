@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=22c55e&center=true&vCenter=true&random=false&width=720&lines=Data+Analyst+%F0%9F%93%8A&lines=Python+%7C+SQL+%7C+Power+BI&lines=Turning+data+into+decisions+%E2%9C%A8&lines=%F0%9F%92%BB%20%E2%80%9CEl%20c%C3%B3digo%20no%20solo%20lo%20escribe%20una%20m%C3%A1quina%2C%20lo%20escribe%20la%20creatividad%20humana.%E2%80%9D" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=22c55e&center=true&vCenter=true&random=false&width=720&lines=Data+Analyst+%F0%9F%93%8A&lines=Python+%7C+SQL+%7C+Power+BI&lines=Turning+data+into+decisions+%E2%9C%A8&lines=%F0%9F%92%BB%20%E2%80%9CEl%20c%C3%B3%20no%20solo%20lo%20escribe%20una%20m%C3%A1quina%2C%20lo%20escribe%20la%20creatividad%20humana.%E2%80%9D" alt="Typing SVG"/>
 </div>
 
 <br/>
